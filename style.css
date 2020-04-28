@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.background-image{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hell_Gate_Bridge_by_Dave_Frieder.jpg/300px-Hell_Gate_Bridge_by_Dave_Frieder.jpg);
+}
+
+h1{
+    font-weight: ;
+    color: lightblue;
+    font-family: Berkshire Swash;
+    font-size: 150px;
+    text-align: center;
+    text-shadow:-1px -5px 0 #00F,
+    -1px -5px 0 #00F,
+    -1px 5px 0 #00F,
+    11px -5px 0 #00F;   
+}
+
+img{
+    height: 120;
+}
+
+h2 {
+    font-family: Lobster, GENERIC_NAME;
+}
+
+.large-image{
+    width: 500px;
+    margin: 0px 200px 0px 200px;
+}
+
+.border{
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+    padding: 20px;
+    margin: 60px;
+}
+
+.light-blue{
+    background-color: lightblue;
+}
+
+.body{
+    background-color: lightcoral;
+    opacity: .2px;
+}
+
+.video{
+    margin: 0px 200px 0px 200px;
+}
